@@ -40,6 +40,3 @@ The project utilizes Exploratory Data Analysis techniques to:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
-### Contributors
-JAYMEEN JETHVA
